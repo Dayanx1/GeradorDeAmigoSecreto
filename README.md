@@ -23,9 +23,7 @@ Interface simples e intuitiva
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/gerador-amigo-secreto.git
-cd gerador-amigo-secreto
-
+git clone :https://github.com/Dayanx1/GeradorDeAmigoSecreto
 
 Abra o arquivo index.html no navegador para acessar a interface.
 
